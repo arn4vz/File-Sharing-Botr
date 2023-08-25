@@ -23,7 +23,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@CYBERSUPPORTGROUP ](https://www.telegram.dog/CYBERSUPPORTGROUP)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@CYBERSUPPORTGROUP ](https://www.telegram.dog/Hackerworld69)**
 
 **Make sure to see [contributing.md](https://github.com/MOGAMBO-XD/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
@@ -44,7 +44,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ### Installation
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MOGAMBO-XD/File-Sharing-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/arn4vz/File-Sharing-Botr)
 
 
 #### Deploy in your VPS
